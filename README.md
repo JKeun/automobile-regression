@@ -58,3 +58,5 @@
 
 ### Reference
 - how to handle missing data (https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+- scaling (https://datascienceschool.net/view-notebook/f43be7d6515b48c0beb909826993c856/)
+- linear models (https://datascienceschool.net/view-notebook/83d5e4fff7d64cb2aecfd7e42e1ece5e/)
