@@ -24,7 +24,7 @@
 **2. Data Split**
 - Outer CV = 5
 - modeling set: 80%
-    - Inner CV = 10
+    - Inner CV = 5
     - train: 80%
     - validation: 20%
 - test set: 20%
