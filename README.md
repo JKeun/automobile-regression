@@ -35,12 +35,19 @@
 - Categorical variables: dummies
 
 **4. Modeling**
-- Linear Regression; Simple, Ridge, Lasso, Elastic Net, GLM
-- Naive Bayes
-- DT, GBM, RF
-- SVM
+- Linear Models
+    - Rdige
+    - Lasso
+    - Elastic Net
+    - Polynomial
+- Non-Linear Models
+    - Kernel Ridge
+    - SVR
+    - Ensemble
+    - Neural Network
+    - Nearest Neighbors
 
-**4. Grid Search & Model Selection (train & validation)**
+**5. Grid Search & Model Selection (train & validation)**
 - Pipeline
     - model
     - parameters range
